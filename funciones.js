@@ -1,13 +1,13 @@
 
 
 function sumaUno(x) {
-    return x + 10;
+    console.log(x) + 10;
 }
 
 
 
 var sumaDos = function (x) {
-    return x (-3);
+    console.log(x (-3));
 }
 
 
@@ -15,9 +15,8 @@ var sumaTres = (x) => {
     return x + 1;
 };
 
-sumaUno(3);
-sumaDos(5);
-sumaTres(7);
+console.log(return)
+
 
 //Función: sumaTres
 var sumaTres = (x) => {
