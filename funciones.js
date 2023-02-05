@@ -14,9 +14,7 @@ var sumaDos = function (x) {
 var sumaTres = (x) => {
     return x + 1;
 };
-
-console.log(return)
-
+console.log(x)
 
 //Función: sumaTres
 var sumaTres = (x) => {

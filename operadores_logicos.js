@@ -16,6 +16,10 @@ operadorOr('H');
 // NOT
 function negacion(permiso) {
    if (permiso) console.log('Tiene permiso');
+   else console.log ('Toca paya bobo')
 }
-negacion(true);
-negacion(false);
+negacion(1);
+negacion();
+
+Boolean('')
+Boolean('stringo')
