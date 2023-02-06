@@ -1,4 +1,0 @@
-function cuidadoConJulianAlvarez(nombre) {
-    console.log(nombre);
-    return nombre;
-}

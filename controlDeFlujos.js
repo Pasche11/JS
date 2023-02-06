@@ -15,4 +15,4 @@ function puede_manejar(edad) {
 }
 
 viajar('Brasil')
-puede_manejar(23)
+puede_manejar(20)
